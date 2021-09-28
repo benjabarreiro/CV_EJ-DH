@@ -1,0 +1,86 @@
+*,html,body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Times New Roman', Times, serif;
+}
+.header-content {
+	text-align: center;
+	padding: 20px 0;
+	background-color: #E6E6E6;;
+}
+
+.title {
+	text-align: center;
+	padding: 15px;
+	font-size: 35px;
+}
+
+section {
+	padding: 130px 0 100px 0;
+}
+
+.sub-title {
+	padding: 7px;
+	font-size: 20px;
+}
+
+.title-style {
+	text-transform: uppercase;
+	background-color: #C4C4C4;
+	color: #005677;
+	letter-spacing: 8px;
+}
+
+ul.general {
+	font-size: 15px;
+}
+
+ul.first {
+	margin-left: 40px;
+	padding: 15px 0;
+}
+
+ul.rest {
+	padding: 15px 20px;
+	list-style: none;
+}
+
+.main-list-items {
+	margin: 10px 0;
+}
+
+.item-name {
+	font-weight: bold;
+}
+
+.item-name_first {
+	font-style: italic;
+}
+
+.item-name_second-content {
+	display: block;
+	margin-left: 74px;
+}
+
+footer {
+	background-color: 
+	#005677;
+	text-align: center;
+	padding: 10px 0;
+}
+
+.contact-list {
+	list-style: none;
+}
+
+.contact-list li {
+	display: inline;
+	margin: 0 20px;
+}
+
+li.contact-info {
+	color: #ffffff;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+}
